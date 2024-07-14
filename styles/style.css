@@ -20,7 +20,7 @@ body{
 }
 .banner-section{
     display: flex;
-    border: 2px solid red;
+   
     width: 90%;
     margin: 0 auto;
 }
@@ -61,6 +61,11 @@ body{
 }
 .banner-image-section{
     width: 50%;
-    border: 2px solid blue;
     height: 650px;
+    display: flex;
+}
+.banner-image-section img{
+    margin-top: 50px;
+    margin-left: 80px;
+
 }
